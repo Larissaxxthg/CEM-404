@@ -1,0 +1,22 @@
+img{
+    midth: 400px;
+    height: 400px;
+    padding-right: 20px;
+}
+p{
+    height: 05px;
+}
+
+body{
+    background-color: rgb(216, 178, 120);
+}
+
+h1,h2{
+    visibility: hidden;
+}
+img{
+    visibility: hidden;
+}
+p{
+    visibility: hidden;
+}
